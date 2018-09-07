@@ -1,0 +1,23 @@
+.contain {
+    background-color:#F6F6F6;
+}
+
+h1 {
+    margin-top:1.5em;
+    margin-bottom:2em;
+    font-family:'Open Sans', sans-serif;
+}
+
+button {
+    width:100%;
+    height:3em;
+    margin-bottom:1.5em;
+}
+
+#checke {
+    text-align:center;
+}
+
+button > a:hover {
+    text-decoration:none;
+}
